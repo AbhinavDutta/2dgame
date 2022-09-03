@@ -5,3 +5,4 @@ An openGL 2D game based on obstacle avoidance.
  gcc main.c -lGL -lglfw -ldl -lglut -lGLU -lSOIL
 ```
 
+![Demo](demo_opengl.gif)
